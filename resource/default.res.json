@@ -1,0 +1,130 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,npc0_01_png,npc0_02_png,npc0_03_png,npc0_04_png,npc1__01_png,npc1__02_png,npc1__03_png,npc1__04_png,人物摁扭_png,任务panel_png,取消_png,叹号_png,完成_png,对话框_png,对话框01_png,接受_png,问号灰_png,问号黄_png,npc_png,npc2_png,任务按钮_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "npc0_01_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc0_01.png"
+		},
+		{
+			"name": "npc0_02_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc0_02.png"
+		},
+		{
+			"name": "npc0_03_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc0_03.png"
+		},
+		{
+			"name": "npc0_04_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc0_04.png"
+		},
+		{
+			"name": "npc1__01_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc1__01.png"
+		},
+		{
+			"name": "npc1__02_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc1__02.png"
+		},
+		{
+			"name": "npc1__03_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc1__03.png"
+		},
+		{
+			"name": "npc1__04_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc1__04.png"
+		},
+		{
+			"name": "人物摁扭_png",
+			"type": "image",
+			"url": "assets/Task/task/人物摁扭.png"
+		},
+		{
+			"name": "任务panel_png",
+			"type": "image",
+			"url": "assets/Task/task/任务panel.png"
+		},
+		{
+			"name": "取消_png",
+			"type": "image",
+			"url": "assets/Task/task/取消.png"
+		},
+		{
+			"name": "叹号_png",
+			"type": "image",
+			"url": "assets/Task/task/叹号.png"
+		},
+		{
+			"name": "完成_png",
+			"type": "image",
+			"url": "assets/Task/task/完成.png"
+		},
+		{
+			"name": "对话框_png",
+			"type": "image",
+			"url": "assets/Task/task/对话框.png"
+		},
+		{
+			"name": "对话框01_png",
+			"type": "image",
+			"url": "assets/Task/task/对话框01.png"
+		},
+		{
+			"name": "接受_png",
+			"type": "image",
+			"url": "assets/Task/task/接受.png"
+		},
+		{
+			"name": "问号灰_png",
+			"type": "image",
+			"url": "assets/Task/task/问号灰.png"
+		},
+		{
+			"name": "问号黄_png",
+			"type": "image",
+			"url": "assets/Task/task/问号黄.png"
+		},
+		{
+			"name": "npc_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc.png"
+		},
+		{
+			"name": "npc2_png",
+			"type": "image",
+			"url": "assets/Task/NPC/images/npc2.png"
+		},
+		{
+			"name": "任务按钮_png",
+			"type": "image",
+			"url": "assets/Task/task/任务按钮.png"
+		}
+	]
+}
